@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suzuyasen
 - 👀 I’m interested in anime,gaming,programming and computers
-- 🌱 I’m currently learning python and IT
+- 🌱 I’m currently learning c# and .NET maui
 - 📫 contact me on instagram : suzuyasen7
 
 <!---
